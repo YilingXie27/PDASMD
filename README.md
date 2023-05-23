@@ -1,7 +1,7 @@
 # Introduction 
 
 The code is attached to the paper ``Improved Rate of First Order Algorithms for Entropic Optimal Transport'', Yiling Luo, Yiling Xie, Xiaoming Huo, AISTATS 2023.
-To reproduce all the experimental results in the paper, download the `mirror_experiment` filefolder and run the `run_experiment.ipynb` file. 
+To reproduce all the experimental results in the paper, download the filefolder and run the `run_experiment.ipynb` file. 
 
 
 # Code files
